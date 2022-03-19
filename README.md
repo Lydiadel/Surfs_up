@@ -17,8 +17,9 @@ Over the last years during june the average temperature is 74.9º Farenheit and 
 <img width="135" alt="dec_temps" src="https://user-images.githubusercontent.com/71950779/158907832-30ced648-e7b6-4f9d-8d95-17ddc874ce86.png">
 
 ### 
-  - In both months, 
-  -
+  - In both months, the main difference presented is the minimum temperature, it could be as well deferred that on December is lower than in June, December min temperature is 56ºF and in June is 64ºF.
+  - The number of times the temperature was observed was higher in June than in December, counted 1700 times in June and 1517 counts in December.
+  - 
   
 
 ## Summary
